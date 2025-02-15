@@ -9,8 +9,8 @@
         <!-- Contact Details -->
         <div class="mt-3">
           <p><i class="fas fa-map-marker-alt text-danger"></i> <strong>Location:</strong> Gulod, Cabuyao, Laguna</p>
-          <p><i class="fas fa-envelope text-info"></i> <strong>Email:</strong>  
-            <a href="mailto:mamplatakyledeejay09@gmail.com">mamplatakyledeejay09@gmail.com</a>
+          <p><i class="fas fa-envelope text-info"></i> <strong>Email:</strong>
+            <a href="mailto:mamplatakyledeejay09@gmail.com"> mamplatakyledeejay09@gmail.com</a>
           </p>
           <p><i class="fas fa-phone text-success"></i> <strong>Phone:</strong> +639385873091</p>
         </div>
@@ -33,13 +33,15 @@
           <h4 class="text-primary"><i class="fas fa-user-tie"></i> References</h4>
           <ul class="list-unstyled">
             <li>
-              <i class="fas fa-user text-secondary"></i> <strong>Daniel M. Paz</strong> – Software Engineer FA, Yondu Inc.<br>
-              <i class="fas fa-envelope text-info"></i>  
+              <i class="fas fa-user text-secondary"></i> <strong>Daniel M. Paz</strong> – Software Engineer FA, Yondu
+              Inc.<br>
+              <i class="fas fa-envelope text-info"></i>
               <a href="mailto:pazdaniel0825@gmail.com">pazdaniel0825@gmail.com</a>
             </li>
             <li class="mt-3">
-              <i class="fas fa-user text-secondary"></i> <strong>McRolls Angeles</strong> – Website Specialist, Ad Ronin Digital Marketing<br>
-              <i class="fas fa-envelope text-info"></i>  
+              <i class="fas fa-user text-secondary"></i> <strong>McRolls Angeles</strong> – Website Specialist, Ad Ronin
+              Digital Marketing<br>
+              <i class="fas fa-envelope text-info"></i>
               <a href="mailto:mcrollsangeles@gmail.com">mcrollsangeles@gmail.com</a>
             </li>
           </ul>
@@ -60,6 +62,7 @@ export default {
 a {
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }

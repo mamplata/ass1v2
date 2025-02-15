@@ -7,10 +7,8 @@ const routes = [
     component: () => import("../components/Home.vue"), // ✅ Lazy load
     props: () => ({ photo }), // ✅ Pass props dynamically
   },
-  {
-    path: "/skills",
-    component: () => import("../components/Skills.vue"), // ✅ Lazy load
-  },
+  { path: "/skills", component: () => import("../components/Skills.vue") },
+
   {
     path: "/contact",
     component: () => import("../components/Contact.vue"), // ✅ Lazy load
